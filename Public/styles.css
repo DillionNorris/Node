@@ -1,0 +1,27 @@
+body{
+    margin-left: 10%;
+    margin-right:10%;
+}
+
+section{
+    margin: 10px;
+    width: 250px;
+}
+h2{
+    height: 20px;
+}
+
+h1{
+    background-color: rgb(131, 7, 7);
+}
+
+
+
+@media (min-width: 500px){
+
+#roster-List{
+    display: flex;
+
+}
+    
+}
